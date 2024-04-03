@@ -1,2 +1,2 @@
 # DjangoOnePage
-Django one page template html
+one page template html in Django
